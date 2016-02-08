@@ -1,0 +1,12 @@
+Classes
+Objects
+
+Object Oriented Programming when you want to map real-life objects and their associated behaviour.
+
+Example : You are going to design the automatic control system of a car
+
+Step 1 : Identify all the objects in the problem context.
+Step 2 : Identify the properties or data associated. 
+Step 3 : Identify the operations that can be performed on the object. 
+Step 4 : Bundle them together and you have your class.
+
